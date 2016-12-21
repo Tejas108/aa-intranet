@@ -1,0 +1,36 @@
+
+#groups-list  {
+  .action {
+    @include media($small) {
+      display: none;
+      width: 100%;
+    }
+  }
+  .item {
+    @include media($small) {
+      width: 100%;
+      font-size: .8em;
+    }
+  }
+}
+
+#buddypress div.activity-meta a {
+  @include media($tablet) {
+    float: none;
+    font-size: 1.6em;
+    margin-bottom: 6px;
+    display: block;
+  }
+}
+
+#buddypress ul.item-list li div.item-title {
+  @include media($small){
+    font-size: 1.8em;
+    width: auto;
+  }
+  @include media($tiny){
+    font-size: 1.2em;
+    width: auto;
+  }
+}
+

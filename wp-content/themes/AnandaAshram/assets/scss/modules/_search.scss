@@ -1,0 +1,22 @@
+#buddypress div.dir-search {
+  @include span-columns(3);
+  float: right;
+  margin: -54px 0 0 0;
+  padding-bottom: 20px;
+  @include media($small)  {
+    float: none;
+    width: 100%;
+    margin: 10px 0 2em 0;
+    input[type=text]  {
+      width: 100%;
+    }
+  }
+  input[type='submit']  {
+    float: right;
+    @include media($small)  {
+      float: none;
+      width: 100%;
+    }
+  }
+
+}

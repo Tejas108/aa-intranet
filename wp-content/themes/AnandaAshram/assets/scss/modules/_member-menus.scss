@@ -1,0 +1,86 @@
+#buddypress #object-nav, .item-list-tabs.activity-type-tabs,.item-list-tabs {
+  margin-top: 0;
+  background: #928E80;
+  @include background-image(linear-gradient(lighten(#928E80, 5%),#928E80));
+  @include rounded(6px);
+   a {
+    color: #fff;
+     @include text-shadow(1px, 1px, 1px, rgba(0,0,0,.3));
+    &:hover  {
+      color: $base-link-color;
+      text-shadow: none;
+    }
+     @include media($tiny) {
+       font-size: .9em;
+     }
+  }
+  .current.selected  {
+    a {
+      color: #928E80;
+      text-shadow: none;
+      }
+    }
+}
+
+#buddypress div.item-list-tabs#object-nav,.activity-type-tabs {
+  @include media ($tablet)  {
+    background: none;
+    li  {
+      float: none;
+      display: block;
+      background: $medium-gray;
+      margin-bottom: 4px;
+    }
+  }
+}
+
+.show-activity {
+  padding-top: 6px;
+}
+
+#buddypress div.item-list-tabs#subnav {
+  @include media($tablet) {
+    float: none !important;
+  }
+}
+
+#buddypress div.item-list-tabs#subnav ul li {
+  @include media($tablet) {
+    display: block;
+    float: none;
+    background: $medium-gray;
+    margin-bottom: 4px;
+  }
+  &:first-child, &:last-child {
+    background: none;
+  }
+}
+
+#item-header-content  {
+  .highlight, .activity, #item-meta {
+    @include media($small) {
+      display: none !important;
+    }
+  }
+}
+
+.feed  {
+  display: none !important;
+}
+
+
+#buddypress div.item-list-tabs ul li.current a, #buddypress div.item-list-tabs ul li.selected a {
+  opacity: 1;
+}
+#buddypress div.item-list-tabs#subnav {
+  background: #eee;
+  margin: 0 0 10px 0;
+  padding: 10px;
+  a {
+    color: $base-link-color;
+    text-shadow: none;
+    &:hover {
+      color: darken($base-link-color, 20%);
+    }
+  }
+}

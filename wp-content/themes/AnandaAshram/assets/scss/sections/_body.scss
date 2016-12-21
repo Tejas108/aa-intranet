@@ -1,0 +1,25 @@
+
+html  {
+   padding: 0;
+   height: 100%;
+  background-image: none;
+   background-color: $light-background-color !important;
+    body {
+      background-color: none;
+      height: 100%;
+      margin: 0;
+      @include media($large) {
+        background-image: none;
+      }
+
+        @include background-image(url($background-image), url($background-image2));
+        background-position: top left, right bottom;
+        background-size: 504px 649px, 526px 432px;
+        background-repeat: no-repeat;
+        background-position: top left, right bottom;
+        background-size: 504px 649px, 526px 432px;
+
+    }
+
+
+}

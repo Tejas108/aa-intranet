@@ -1,0 +1,592 @@
+div#wp-jobs-banner{margin-top:10px;float:left;width:100%;}
+div#wp-jobs-banner img{max-width:100%;margin:0 auto;display: block;}
+div#userpopup span.popup-top{float:left;width:100%;padding:5px 15px;background:#353438;margin-left:-15px;}
+div#userpopup span.popup-top img#popup_cross{float:right;width:20px;}
+div#userpopup span.popup-top span#popup_title{color:#ffffff;font-weight: bold;}
+div#userpopup div.popup-field-wrapper{float:left;width:100%;margin-top:8px;}
+div#userpopup div.popup-field-wrapper div.popup-field-title{float:left;width:40%;text-align: right;padding-right:10px;box-sizing:border-box;}
+div#userpopup div.popup-field-wrapper div.popup-field-obj{float:left;width:60%;}
+div#userpopup div.js-submit-container{text-align: center;margin-top:10px;border-top:1px solid #bcbcbc;padding-top:10px;padding-bottom: 10px;}
+
+div#records div.jsst_userpages{text-align: right;padding:5px;}
+div#records div.jsst_userpages a.jsst_userlink{display: inline-block;padding:5px 10px;margin-left:5px;text-decoration: none;background:rgba(0, 0, 0, 0.05) none repeat scroll 0 0;}
+div#records div.jsst_userpages span.jsst_userlink{display: inline-block;padding:5px 10px;margin-left:5px;}
+div#records div.jsst_userpages a.jsst_userlink:hover{background:#2ea2cc;color:#fff;}
+
+div.js-admin-propage{text-align: center;float: left;margin-top: 10px; width:100%;border: 10px solid #333333; background: url(../images/pro_page/banner-bg.png) repeat-y;background-size:100% 100%;padding-top: 20px;}
+div.js-admin-propage span.js-pro-title{text-align: left;display: block;padding:20px 0px 10px 0px;font-size: 25px;font-weight:bold;color:#FFFFFF;border-bottom: 1px solid #FFFFFF;margin-bottom: 10px;}
+div.js-admin-propage span.js-pro-description{display: block;color: #FFFFFF;font-weight: bold;font-size: 15px;padding: 10px;}
+div.js-admin-propage a#js-pro-link{display: inline-block;width:335px;height: 93px;background:url(../images/pro_page/download_button.png) no-repeat center center;margin: 0 auto;}
+div.js-pro-feature-wrapper{display: inline-block;float:left;width:100%;margin:0px;}
+div.js-pro-feature-wrapper div.js-pro-feature {background: #FDFDFD;border:1px solid #DFDFDF;text-align: center;padding:20px 0px;margin:5px 10px;width:48%;height:165px;}
+div.js-pro-feature-wrapper div.js-pro-feature img{padding: 5px;}
+div.js-pro-feature-wrapper div.js-pro-feature img.js-premade{background: #815F11;}
+div.js-pro-feature-wrapper div.js-pro-feature img.js-theme{background: #92AB22;}
+div.js-pro-feature-wrapper div.js-pro-feature img.js-fieldordering{background: #2D6233;}
+div.js-pro-feature-wrapper div.js-pro-feature img.js-internalmail{background: #E58644;}
+div.js-pro-feature-wrapper div.js-pro-feature img.js-acl{background: #AE1955;}
+div.js-pro-feature-wrapper div.js-pro-feature img.js-staff{background: #006166;}
+div.js-pro-feature-wrapper div.js-pro-feature img.js-helptopic{background: #408A77;}
+div.js-pro-feature-wrapper div.js-pro-feature img.js-knowledgebase{background: #815F88;}
+div.js-pro-feature-wrapper div.js-pro-feature img.js-downloads{background: #393199;}
+div.js-pro-feature-wrapper div.js-pro-feature img.js-viaemail{background: #AE19aa;}
+div.js-pro-feature-wrapper div.js-pro-feature img.js-activitylog{background: #92ABbb;}
+div.js-pro-feature-wrapper div.js-pro-feature img.js-announcements{background: #AE19cc;}
+div.js-pro-feature-wrapper div.js-pro-feature img.js-faqs{background: #C13Add;}
+div.js-pro-feature-wrapper div.js-pro-feature img.js-banned_email{background: #5571ee;}
+div.js-pro-feature-wrapper div.js-pro-feature img.js-overdue{background: #0B8Fff;}
+div.js-pro-feature-wrapper div.js-pro-feature img.js-visitorticketopen{background: #92AB00;}
+div.js-pro-feature-wrapper div.js-pro-feature img.js-lockticket{background: #815FB0;}
+div.js-pro-feature-wrapper div.js-pro-feature img.js-internalnote{background: #654321;}
+div.js-pro-feature-wrapper div.js-pro-feature img.js-stafftransfer{background: #2D6293;}
+div.js-pro-feature-wrapper div.js-pro-feature img.js-departmenttransfer{background: #E58600;}
+div.js-pro-feature-wrapper div.js-pro-feature span.js-pro-feature-title{display: block;padding:10px;margin:10px;border-top:1px solid #DFDFDF;color:#222222;font-weight: bold;margin-bottom: 0px;}
+div.js-pro-feature-wrapper div.js-pro-feature span.js-pro-feature-description{font-size:10px;color:#7A7A7A;}
+span.js-admin-component{display: block;padding:0px 10px;background:url(../images/aboutus_page/heading-bg.png);height:64px;width:100%;float:left;line-height: 64px;color:#FFFFFF;margin-bottom: 10px;}
+span.js-admin-component-detail{display: block;padding:0px 10px;width:100%;float:left;margin-bottom: 10px;font-size: 12px;}
+div.js-admin-info-wrapper{width: 100%;float:left;margin-bottom: 5px;}
+div.js-admin-info-wrapper span.js-admin-info-title{display:inline-block;width: 20%;float:left;padding:5px 0px;text-align: center;margin-right: 1%;background: #FFFFFF; border:1px solid #D4D4D5;}
+div.js-admin-info-wrapper span.js-admin-info-vlaue{display:inline-block;width: 77%;float:left;padding:5px 0px; padding-left:10px;background: #FFFFFF; border:1px solid #D4D4D5;}
+div.js-admin-joomsky-wrapper span.js-admin-title img{height: 30px;margin-right:10px;}
+div.js-admin-joomsky-wrapper span.js-admin-title{font-size:25px;line-height: 30px;}
+div.js-admin-joomsky-wrapper div.js-col-md-8{font-size:12px;color:#222222;margin-top:30px;}
+div.js-admin-joomsky-wrapper{background:url(../images/aboutus_page/bg.png) repeat-x;display: inline-block;width:100%;}
+span.js-joomsky-link{display: block;text-align: center;margin-top:30px;}
+span.js-joomsky-link a{display: inline-block;padding:5px 20px;background:#0074A2;color:#FFFFFF;}
+span.js-joomsky-link a:hover{display: inline-block;padding:5px 20px;background:#0074A2;color:#FFFFFF;text-decoration: none;}
+div.js-ticket-configuration-value span.js-ticket-config-xs-show-hide{display: none;}
+div#records{box-sizing:border-box;}
+div#records div.js-popup-row-wrapper {border-bottom: 1px solid #bcbcbc;}
+div#records div.js-popup-row-wrapper span{background:#fff;border-right: 1px solid #bcbcbc;}
+div#records div.js-popup-row-wrapper span:last-child{border-right: 0px;}
+div.wrapper{display: inline-block;width:100%;}
+table#js-support-ticket-table{width:100%;}
+table#js-support-ticket-table tr th{background: #666666;color:#ededed;padding: 10px 5px;text-align: center;}
+table#js-support-ticket-table tr th.left{text-align: left;background:#428BCA;}
+table#js-support-ticket-table tr td{padding:10px 5px;margin-bottom: 5px;border-bottom: 1px solid #666666;text-align: center;}
+table#js-support-ticket-table tr:nth-child(2n) td{background:#edeaea;}
+table#js-support-ticket-table tr:nth-child(2n-1) td{background:#fdfdfd;}
+table#js-support-ticket-table tr td.left{text-align: left;}
+.tabs ul {list-style: none;margin: 0px;padding: 0px;display: inline-block;width: 100%;padding-top: 5px;margin-top: 10px;}
+.tabs ul li {background-color: #0073A1; text-align: center; height: 46px; width: 169px;margin-bottom:0px;margin-left:5px;float: left;border: 1px solid #FFFFFF;border-bottom: none;display: block;}
+.tabs ul li.ui-tabs-active, .tabs ul li.ui-state-hover {background:#343538; border: 1px solid #DDDDDD;}
+.tabs ul li.ui-tabs-active a, .tabs ul li.ui-state-hover a {color:#FFFFFF;}
+.tabs ul li a {display: inline-block;text-decoration: none;color:#FFFFFF; width: 100%; padding: 13px;box-sizing:border-box;}
+.tabInner {clear: both;height: auto;overflow: hidden;}
+.tabInner div {height: auto ;padding: 0px;}
+table.adminlist tr.row0, table tr.even{ background:#F2F2F2;}
+table.adminlist tr.row1, table tr.odd{ background:#FFFFFF;}
+#divValues{text-align:left;height: 200px;overflow: auto;}
+.sectionheadline {text-decoration:none;padding:5px 10px;background-image: -moz-linear-gradient(center top , #356094, #2A4E77);border: solid 1px #2A4E77;border-radius:6px;width:97%;float:left;color: white;text-align:center;font-weight:bold;}
+div.idTabs{padding:5px 0px 6px 0px;border-bottom:1px solid #000000;position:relative;display:inline-block;width:100%;}
+span.js-admin-title{display: inline-block;padding:10px;color:#ffffff;font-size: 16px;font-weight: bold;background:#428BCA;margin:10px 0px;width:100%;}
+span.js-admin-title div.right_side{width:24%;float:right;}
+span.js-admin-subtitle{display: inline-block;padding:10px;color:#ffffff;font-size: 16px;font-weight: bold;background:#333333;margin:10px 0px;width:100%;}
+span.js-admin-subtitle.box1{margin-bottom:0px;width:100%;background:#1EADD8;color:#fffff;}
+span.js-admin-subtitle.box2{margin-bottom:0px;width:100%;background:#179650;color:#fffff;}
+span.js-admin-subtitle.box3{margin-bottom:0px;width:100%;background:#D98E11;color:#fffff;}
+span.js-admin-subtitle.box4{margin-bottom:0px;width:100%;background:#741D89;color:#fffff;}
+div.js-box-wrapper{display: inline-block;width: 100%;padding:10px 0px;margin:5px 0px;}
+div.js-box-wrapper div.js-box{width:22.5%;float:left;margin-right: 2%;border: 1px solid #EEEEEE;background:#ffffff;}
+div.js-box-wrapper div.js-box div.text-wrapper{display: inline-block;float:left;line-height: 80px;margin-left: 10px;color:#222222;}
+div.js-box-wrapper div.js-box div.img-wrapper{display: inline-block;float:left;width:35%;padding:10px;text-align: center;height: 80px;}
+div.js-wrapper div.js-box-wrapper.js-1 a:nth-child(1) div.js-box div.img-wrapper{background: #6DCFF6;}
+div.js-wrapper div.js-box-wrapper.js-1 a:nth-child(2) div.js-box div.img-wrapper{background: #F26C4F;}
+div.js-wrapper div.js-box-wrapper.js-1 a:nth-child(3) div.js-box div.img-wrapper{background: #8DC63F;}
+div.js-wrapper div.js-box-wrapper.js-1 a:nth-child(4) div.js-box div.img-wrapper{background: #D9534F;}
+div.js-wrapper div.js-box-wrapper.js-2 a:nth-child(1) div.js-box div.img-wrapper{background: #8781BD;}
+div.js-wrapper div.js-box-wrapper.js-2 a:nth-child(2) div.js-box div.img-wrapper{background: #48BCB5;}
+div.js-wrapper div.js-box-wrapper.js-2 a:nth-child(3) div.js-box div.img-wrapper{background: #F44364;}
+div.js-wrapper div.js-box-wrapper.js-2 a:nth-child(4) div.js-box div.img-wrapper{background: #19A7D1;}
+div.js-wrapper div.js-box-wrapper.js-3 a:nth-child(1) div.js-box div.img-wrapper{background: #6D5CD4;}
+div.js-wrapper div.js-box-wrapper.js-3 a:nth-child(2) div.js-box div.img-wrapper{background: #FB55CF;}
+div.js-wrapper div.js-box-wrapper.js-3 a:nth-child(3) div.js-box div.img-wrapper{background: #8DC63F;}
+div.js-wrapper div.js-box-wrapper.js-3 a:nth-child(4) div.js-box div.img-wrapper{background: #D9534F;}
+form.js-filter-form{display: inline-block;width:80%;margin-top: 15px;}
+form.js-filter-form.js-report-form{width:98%;}
+div.js-filter-form-fields{display: inline-block;}
+div.js-filter-form-fields-buttons {display: inline-block;}
+a.js-add-link.button{background-color: #343538; color: #FFFFFF; display: inline-block;min-width: 80px; height: 30px; margin: 10px 10px 5px 0px;}
+a.js-add-link.button:hover{background-color: #428BCA; color: #FFFFFF; display: inline-block;min-width: 80px; height: 30px; margin: 10px 10px 5px 0px;}
+a.js-add-link.button.active:hover{background-color: #428BCA; color: #FFFFFF; display: inline-block;min-width: 80px; height: 30px; margin: 10px 10px 5px 0px;}
+a.js-add-link.button.active{background-color: #428BCA; color: #FFFFFF;}
+a.js-add-link.button img{margin-top:-2px;margin-right:5px;}
+h3.js-ticket-configuration-heading-main{margin: 4px; color: #FFFFFF;width: 100%; display: inline-block;background-color: #353638;padding: 9px 10px;}
+div.js-ticket-conf-text-sub{font-weight: bold;font-size: 17px;}
+div.js-form-wrapper{display: inline-block;width:100%;padding:5px 10px;}
+div.js-form-wrapper div.js-form-title{display: inline-block;width:30%;text-align: right;margin-right: 5%;float:left;}
+div.js-form-wrapper div.js-form-title label{font-weight: normal;}
+div.js-form-wrapper div.js-form-field{display: inline-block;width:65%;}
+div.js-form-wrapper div.js-form-field label{font-weight: normal;padding-right: 20px;}
+div.js-form-button{display:inline-block;width:70%;margin:1% 15%;text-align: center;padding:10px 0px;border-top: 1px solid #428BCA;}
+div.js-email-menu{display: inline-block;width:30%;float:left;}
+div.js-email-menu span.js-email-menu-link{display: block;background:#DDDDDD;border-bottom: 1px solid #428BCA;cursor: pointer;}
+div.js-email-menu span.js-email-menu-link:hover,
+div.js-email-menu span.js-email-menu-link.selected{background:#428BCA;}
+div.js-email-menu span.js-email-menu-link:hover a,
+div.js-email-menu span.js-email-menu-link.selected a{color:#FFFFFF;}
+div.js-email-menu span.js-email-menu-link a{display:block;padding:10px;color:#222222;text-decoration: none;}
+div.js-email-body{display: inline-block;width:64%;float:left;padding:0px 2.5%;border:1px solid #428BCA;}
+span.js-ticket-value.js-ticket-creade-via-email-spn{position: absolute;bottom:-13px;right:5px;font-size: 10px;line-height: 1;}
+div.js-email-parameters{display: inline-block;width:100%;padding:10px 0px;}
+div.js-email-parameters span.js-email-parameter-heading{display:block;padding:10px;color:#428BCA;border-bottom: 2px solid #428BCA;font-size:20px;font-weight: bold;}
+div.js-email-parameters span.js-email-paramater{display: block;padding:5px;}
+div.js-ticket-wrapper{margin:5px 0px;border:1px solid #DDDDDD;background:#ffffff;}
+div.js-ticket-wrapper:hover{border:1px solid #428BCA;}
+div.js-ticket-wrapper:hover div.js-ticket-pic{border-right:1px solid #428BCA;}
+div.js-ticket-wrapper:hover div.js-ticket-data1{border-left:1px solid #428BCA;}
+div.js-ticket-wrapper:hover div.js-ticket-bottom-line{background:#428BCA;}
+div.js-ticket-wrapper div.js-ticket-pic{margin:10px 0px;border-right:1px solid #DDDDDD;padding:0px;}
+div.js-ticket-wrapper div.js-ticket-pic img{max-width: 90%;height: 78px;}
+div.js-ticket-wrapper div.js-ticket-pic-themepage{margin:10px 0px;border-right:1px solid #DDDDDD;padding:0px;}
+div.js-ticket-wrapper div.js-ticket-pic-themepage img{}
+div.js-ticket-wrapper div.js-ticket-data{margin:10px 0px;position: relative;}
+div.js-ticket-wrapper div.js-ticket-data span.js-ticket-status{position: absolute;bottom:5px;right:5px;padding: 5px 10px;border-radius: 20px;font-size: 10px;line-height: 1;color:#ffffff;font-weight: bold;}
+div.js-ticket-wrapper div.js-ticket-data span.js-ticket-status img.ticketstatusimage{position: absolute;top:0px;}
+div.js-ticket-wrapper div.js-ticket-data span.js-ticket-status img.ticketstatusimage.one{left:-25px;}
+div.js-ticket-wrapper div.js-ticket-data span.js-ticket-status img.ticketstatusimage.two{left:-50px;}
+div.js-ticket-wrapper div.js-ticket-data1{margin:10px 0px;border-left:1px solid #DDDDDD;}
+div.js-ticket-wrapper div.js-ticket-data span.js-ticket-title{color:#222222;font-weight: bold;}
+div.js-ticket-wrapper div.js-ticket-data span.js-ticket-value{color:#222222;}
+div.js-ticket-wrapper div.js-ticket-bottom-line{position:absolute;display: inline-block;width:90%;margin:0 5%;height:1px;background:#DDDDDD;left:0px;bottom: 0px;}
+div.js-ticket-wrapper div.js-ticket-toparea{position: relative;padding:0px;margin-bottom: 10px;}
+div.js-ticket-wrapper div.js-ticket-bottom-data-part{padding: 0px;margin-bottom: 10px;display: inline-block;}
+div.js-ticket-wrapper div.js-ticket-bottom-data-part a.button{float:right;margin-left: 10px;padding:0px 20px;line-height: 30px;height:32px;}
+div.js-ticket-wrapper div.js-ticket-bottom-data-part a.button img{height:16px;margin-right:5px;}
+div.js-ticket-middlebar span.js-ticket-title{font-weight: bold;}
+div.js-ticket-body-data-elipses{  white-space: nowrap; line-height: 16px; width: 100%; overflow: hidden;text-overflow: ellipsis}
+div.js-nullpadding{padding: 0px;}
+div.js-admin-sorting{padding-top:5px;border-top:1px solid #428BCA;padding-right: 0px;padding-left: 0px;}
+div.js-admin-sorting span.js-admin-sorting-link{padding-right:0px;padding-left: 0px;}
+div.js-admin-sorting span.js-admin-sorting-link a{text-decoration: none;display: block;background:#222222;color:#ffffff;padding-top: 5px;padding-bottom: 5px;text-align:center;}
+div.js-admin-sorting span.js-admin-sorting-link a.selected,
+div.js-admin-sorting span.js-admin-sorting-link a:hover{background: #428BCA;}
+div.js-ticket-detail-wrapper{background: #ffffff;padding:10px;border:1px solid #DDDDDD;width: 100%;}
+div.js-ticket-detail-wrapper div.js-ticket-openclosed{background:#DDDDDD;color:#666666;font-size:32px;line-height: 60px;height: 60px;border-right:1px solid #DDDDDD;}
+div.js-ticket-detail-wrapper div.js-ticket-topbar{padding: 0px 0px 10px 0px;border-bottom: 1px solid #428BCA;margin: 15px 10px;}
+div.js-ticket-detail-wrapper div.js-ticket-topbar div.js-openclosed{border-right: 1px solid #DDDDDD;}
+div.js-ticket-detail-wrapper div.js-ticket-topbar div.js-last-left{border-left: 1px solid #DDDDDD;}
+div.js-ticket-detail-wrapper div.js-ticket-middlebar{margin: 20px 10px;}
+div.js-ticket-detail-wrapper div.js-margin-bottom{margin-bottom: 10px;}
+div.js-ticket-detail-wrapper div.js-button-margin{margin-top: 15px;}
+div.js-ticket-detail-wrapper div.js-ticket-moredetail{margin-bottom: 10px;}
+div.js-ticket-detail-wrapper div.js-ticket-moredetail div.js-ticket-data-value{border:1px solid #DDDDDD;}
+div.js-ticket-detail-wrapper div.js-border-box{border: 1px solid #DDDDDD;}
+div.js-ticket-detail-wrapper div.js-ticket-requester{margin:0px 15px;font-size: 16px;color:#428BCA;padding-bottom: 5px;margin-bottom: 10px;border-bottom: 1px solid #428BCA;}
+div.js-ticket-detail-wrapper div.js-ticket-bottombar{margin:10px;}
+div.js-ticket-detail-wrapper div.js-ticket-bottombar img{width:20px;}
+div.js-ticket-detail-wrapper div.js-ticket-bottombar img.js-showdetail{float:left;margin-right:5px;-webkit-transform: rotate(180deg);-moz-transform: rotate(180deg);-o-transform: rotate(180deg);-ms-transform: rotate(180deg);transition:all .3s;}
+div.js-ticket-detail-wrapper div.js-ticket-bottombar img.js-hidedetail{float:left;margin-right:5px;-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);-ms-transform: rotate(0deg);transition:all .3s;}
+div.js-ticket-wrapper-textcolor{color: #FFFFFF;}
+div#js-hidden-ticket-data{display:none;float:left;width:100%;margin-top:15px;}
+div.js-ticket-thread-pic img{width:70%;margin:0 10%;}
+div.js-ticket-thread-wrapper{background:#ffffff;border:2px solid #DDDDDD;padding: 10px;border-radius: 10px;margin-bottom: 20px;position: relative;}
+div.js-ticket-thread-wrapper div.js-ticket-detail-corner{position: absolute;top: 25px;left:-21px;background: url(../images/corner.png);width:24px;height: 29px;}
+div.js-ticket-thread-wrapper div.js-ticket-thread-upperpart{padding-bottom:10px;padding-top:5px;margin-bottom: 10px;border-bottom: 1px solid #DDDDDD;font-size:14px;display: inline-block;width:100%;}
+div.js-ticket-thread-wrapper.colored div.js-ticket-thread-upperpart{border-bottom: 1px solid #428BCA;}
+div.js-ticket-thread-wrapper div.js-ticket-thread-upperpart span.js-ticket-thread-replied{font-weight: bold;}
+div.js-ticket-thread-wrapper div.js-ticket-thread-upperpart span.js-ticket-thread-person{font-weight: bold;}
+div.js-ticket-thread-wrapper.colored div.js-ticket-thread-upperpart span.js-ticket-thread-replied{font-weight: bold;color:#428BCA;}
+div.js-ticket-thread-wrapper.colored div.js-ticket-thread-upperpart span.js-ticket-thread-person{font-weight: bold;color:#428BCA;}
+div.js-ticket-thread-wrapper div.js-ticket-thread-middlepart{padding-bottom: 20px;}
+div.js-ticket-thread-wrapper div.js_ticketattachment{padding:5px;line-height: 30px;border: 1px solid #DDDDDD;margin-bottom: 5px;float:left;margin-right: 5px;}
+span.tk_attachments_addform{display: inline-block;clear: both;padding:5px 10px;border: 1px solid #DDDDDD;background:#ddeeee;cursor: pointer;}
+div.js-wrapper{width:100%;float:left;}
+canvas#chart-area,canvas#canvas{width:100%;}
+div.js-span-wrapper{padding-top:20px;display: inline-block;width: 100%;}
+div.js-span-wrapper div{padding:0px;}
+span.js-admin-ticket-open{background: #E16AA2;display: block;text-align: center;padding:5px;color:#ffffff;}
+span.js-admin-ticket-close{background: #19A7D1;display: block;text-align: center;padding:5px;color:#ffffff;}
+span.js-admin-ticket-answered{background: #D5D6DE;display: block;text-align: center;padding:5px;color:#ffffff;}
+span.js-admin-ticket-allticket{background: #D54E21;display: block;text-align: center;padding:5px;color:#ffffff;}
+div.js-controlpanel-tickets{display: inline-block;}
+div.js-admin-ticket-head{display: inline-block; width: 100%; background: #D0D2D3;}
+div.js-admin-ticket-head div {border-right: 1px solid #FFFFFF;padding-top: 5px;padding-bottom: 5px;}
+div.js-admin-ticket-head div:last-child {border-right: none;}
+div.js-ticket-admin-text-elipses{white-space: nowrap;overflow: hidden;text-overflow: ellipsis}
+div.js-ticket-admin-cp-tickets{width: 100%;float: left;padding-right: 40px;}
+div.js-ticket-admin-cp-head{background: #D0D2D3;margin: 10px 0px;}
+div.js-ticket-admin-cp-head div {border-right: 1px solid #FFFFFF;padding-top: 5px;padding-bottom: 5px;}
+div.js-ticket-admin-cp-head div:last-child {border-right: none;}
+div.js-ticket-admin-cp-data div{white-space: nowrap; padding-right: 0px; overflow: hidden;text-overflow: ellipsis}
+div.js-ticket-admin-cp-data div{border: 1px solid #FFFFFF;padding-top: 5px;padding-bottom: 5px;}
+div.js-admin-cp-text-elipses{white-space: nowrap;overflow: hidden;text-overflow: ellipsis}
+span.js-ticket-admin-cp-showhide{display: none;}
+div.js-ticket-detail-wrapper a.button{margin-left: -5px;padding:6px 10px;}
+div.js-ticket-detail-wrapper a.button img{width: 22px;margin-top:-15px;}
+div.js-title{padding-top: 4px;padding-bottom: 4px;}
+div#userpopup{background: #fdfdfd;border: 1px solid #e0dce0;}
+form#userpopupsearch div.search-center div.search-center-heading{background:#343538;color:#ffffff;}
+
+div#records div.js-staff-searc-desc{width: 100%; border: 1px solid #ddd; background: #F1F1F1; color: #887F7F; font-size: 15px; margin-bottom: 15px; padding: 10px 25px;}
+form#userpopupsearch div.search-center div.js-search-value{padding: 0 5px;}
+form#userpopupsearch div.search-center div.js-search-value input{min-height: 28px;}
+form#userpopupsearch div.search-center div.js-search-value-button{padding: 0;}
+form#userpopupsearch div.search-center div.js-search-value-button div.js-button{padding: 0 5px; width: 50%; float: left; display: inline-block;}
+
+form#userpopupsearch{margin-bottom: 10px;float: left;width: 100%;}
+form#userpopupsearch div.search-center{width:99%;margin-left:4px;font-size:15px;float:left;font-weight: bold;}
+form#userpopupsearch div.search-center-history{width:99%;margin-left:4px;font-size:17px;float:left;color: #ffffff; padding: 10px; font-weight: bold;background-color: #343538;}
+form#userpopupsearch div.search-center input{width: 100% !important;}
+form#userpopupsearch div.search-center-heading{padding:10px 0px 10px 10px;margin-bottom: 10px;}
+form#userpopupsearch div.search-center span.close{position: absolute;top:10px;right: 10px;background-image:url(../images/close.png);background-size: 100%;width:20px;height: 20px;opacity: 1;}
+form#userpopupsearch div.search-center-history span.close-history{position: absolute;top: 9px;right: 9px;background:url(../images/close.png) no-repeat;background-size: 100%;width:20px;height: 20px;}
+div#username-div{display: inline-block;margin-right: 10px;}
+span.textstylebold{font-weight: bold;line-height: 22px;}
+div.js-ticket-special-character{display: inline-block;width: auto;}
+div#userpopup{position: fixed;top:30%;left:20%;width:60%;max-height: 40%;padding:10px;padding-top:0px;border-radius: 8px;z-index: 99999;overflow-y: auto; overflow-x: hidden;}
+div#userpopup input.js-searchbtn{padding: 2px 15px;}
+div#popup-back{position: fixed;width: 100%;height: 100%;background: rgba(0,0,0,0.7);z-index: 999;top:0px;left:0px;}
+div#records{display: inline-block; padding:10px;z-index: 9999;overflow: auto;width:100%;padding-top: 5px; padding-bottom: 5px;}
+div#records span{background:#fefefe;margin-bottom: 10px;}
+div#records span.admin{color:blue;}
+div#records span.staff{color:orange;}
+div#records span.member{color:black;}
+div.user-records-wrapper span.js-user-title-xs{display: none;}
+div.user-records-wrapper{padding-bottom: 3px;}
+div.tk_permission_heading{color: #FFFFFF;background: #222222;}
+div.js-title{background: #DDDDDD;padding-top: 4px;padding-bottom: 4px;}
+div.js-value{border-bottom:1px solid #DDDDDD;background: #fefefe;}
+div#username-div{display: inline-block;margin-right: 10px;}
+h1.heading{color:#FFFFFF;background: #000;padding: 5px 0px;}
+div#action-div div.js-row select#priority{float: right;}
+div.js_job_error_messages_wrapper{display:inline-block;width:90%;margin:10px 5%;padding:10px 0px;}
+div.js_job_error_messages_wrapper div.js_job_messages_image_wrapper{display:inline-block;width:20%;float:left;}
+div.js_job_error_messages_wrapper div.js_job_messages_image_wrapper img.js_job_messages_image{width:80%;max-height: 80%;margin:10%;}
+div.js_job_error_messages_wrapper div.js_job_messages_data_wrapper{width:80%;display:inline-block;float:left;}
+div.js_job_error_messages_wrapper div.js_job_messages_data_wrapper span.js_job_messages_main_text{display:inline-block;width:98%;margin-top:20px;font-size:16px;padding-left: 2%;font-weight: bold;}
+div.js_job_error_messages_wrapper div.js_job_messages_data_wrapper span.js_job_messages_block_text{display:inline-block;width:96%;margin:5px 0px;font-size:13px;padding:2%;}
+div.js_job_error_messages_wrapper div.js_job_messages_data_wrapper div.js_job_messages_button_wrapper{display:inline-block;width:95%;margin-top:15px;text-align:right;}
+div.js_job_error_messages_wrapper div.js_job_messages_data_wrapper div.js_job_messages_button_wrapper a.js_job_message_button{display: inline-block;padding:5px 20px;}
+div.js_job_error_messages_wrapper div.js_job_messages_data_wrapper div.js_job_messages_button_wrapper a.js_job_message_button:hover{text-decoration: none;}
+div#js_main_wrapper div.fieldwrapper{display:inline-block;widt:100%;margin:5px 0px;text-align:center;}
+div#js_main_wrapper div.fieldwrapper div.fieldtitle{display:inline-block;width:30%;text-align:right;padding-right:5%;float:left;}
+div#js_main_wrapper div.fieldwrapper div.fieldvalue{display:inline-block;width:65%;text-align:left;}
+div#js_main_wrapper div.fieldwrapper div.fieldtitle label{display:inline-block;}
+div.js_job_error_messages_wrapper{border:1px solid #B8B8B8;background:#FDFDFD;}
+div.js_job_error_messages_wrapper div.js_job_messages_data_wrapper span.js_job_messages_main_text{color:#D30907;}
+div.js_job_error_messages_wrapper div.js_job_messages_data_wrapper span.js_job_messages_block_text,
+div#records div.js_job_error_messages_wrapper div.js_job_messages_data_wrapper span.js_job_messages_block_text{background:#252429;color:#ffffff;}
+div.js-textaligncenter{text-align: center;}
+div.js-textalign-right{text-align: right;}
+div.js-textaligncenter1{text-align: center; display: inline-block;}
+div.color_submit_button{display: inline-block;padding: 10px; width: 100%; text-align: center;}
+div.js-ticket-configuration-table{}
+div.js-ticket-configuration-row{margin: 7px 0px;}
+div.js-ticket-configuration-row.paddingleft{padding-left: 14%;}
+div.js-ticket-configuration-title{text-align: right;padding-right: 10px;font-weight: bold;}
+div.js-ticket-configuration-value input.inputbox{width: 85%;}
+div.js-ticket-configuration-value textarea.inputbox{max-width: 85%; width: 85%;}
+div.js-ticket-configuration-value select{width: 85%;}
+div.js-ticket-configuration-value .wp-editor-wrap{width: 85%;}
+div.js-ticket-configuration-sub-heading{font-weight: bold;font-size: 18px;}
+div.js-filter-form-list{margin-top: 10px;}
+div.js-filter-form-head{display: inline-block; width: 100%;font-size:14px;font-weight: bold;}
+div.js-filter-form-data{display: inline-block;width: 100%; font-size:13px;}
+div.js-filter-form-data div{white-space: nowrap; padding-right: 10px !important; overflow: hidden;text-overflow: ellipsis}
+div.js-filter-form-data div:last-child{white-space: nowrap; padding-right: 0px; overflow: hidden;text-overflow: ellipsis}
+div.js-filter-form-data div:hover{white-space: normal; padding-right: 10px !important; overflow: hidden;text-overflow: ellipsis}
+div.js-filter-form-head div{min-height: 25px; padding: 5px 0px 4px 5px;}
+div.js-filter-form-head div:last-child{border-right: 0px; text-align: center; padding-left: 0px;}
+div.js-filter-form-data div{min-height: 33px;padding: 5px 0px 1px 5px;}
+div.js-filter-form-data img{box-shadow: none;}
+div.js-filter-form-data div.js-col-md-3.js-col-xs-12.seventh.js-filter-form-action-hl-xs{border-right: 0px; text-align: center; padding-left: 0px;}
+div.js-filter-form-head{background: #343538;color: #FFFFFF;}
+div.js-filter-form-data{border: 1px solid #BDBDBD;background: #FCFCFC;}
+div.js-filter-form-head div{border-right: 1px solid #FCFCFC;}
+div.js-filter-form-data div{border-right: 1px solid #BDBDBD;}
+div.js-ticket-admin-prirrity-color{min-height: 20px !important;}
+div.js-filter-form-action-hl-xs{text-align: center;}
+div.js-nullpadding{padding: 5px !important;}
+div.js-myticket-link a.js-myticket-link{width:100%;display: inline-block;text-align: center;padding:20px 0px;background:url(../images/buttonbg.png);border:1px solid #B8B8B8;border-radius:4px;color:#666666;}
+div.js-myticket-link a.js-myticket-link.active{background:#428BCA;color:#FFFFFF;}
+div.js-myticket-link a.js-myticket-link:hover{background:#428BCA;border:1px solid #B8B8B8;border-radius:4px;color:#FFFFFF;text-decoration: none;}
+div.js-ticket-datapart-buttons-action{float:right;}
+div.js-ticket-datapart-buttons-detail{float:right;}
+div.js-ticket-bottom-data-part span.js-ticket-created{float:left;}
+.js-filter-form-data-xs{display: none;}
+span.js-ticket-via-email{float:right;}
+span.js-admin-infotitle{display: block;padding:5px 10px;border:1px solid #B4D2F6;background: #DBECFF;}
+span.js-admin-infotitle img {margin-right: 10px;}
+a.js-add-link.button{margin-top: 15px;}
+img{box-shadow: none !important;}
+
+div#gettingstart-wrapper{display: inline-block;width: 100%;background: url(../images/gettingstart/grey-bg.png);}
+div#gettingstart-wrapper div.box1-wrapper{display: inline-block;width: 100%;border-top:60px solid #151515;border-bottom: 10px solid #151515;background: url(../images/gettingstart/blue-bg.png) repeat top left;position: relative;padding-top:80px;text-align: center;}
+div#gettingstart-wrapper div.box1-wrapper span.gettingstart-text{position:absolute;width:40%;box-sizing:border-box;display: inline-block;font-size:40px;padding:40px;font-weight: bold;color:#ffffff;background: #151515;top:-60px;left:30%;text-align: center;}
+div#gettingstart-wrapper div.box2-wrapper{display: inline-block;width: 100%;padding:40px 0px;}
+div#gettingstart-wrapper div.box2-wrapper div.box2-inner{display: inline-block;width: 78%;float:right;position:relative;padding:40px;padding-left:400px;height:550px;background:#ffffff;border:1px solid #BFBFBF;border-right:0px;box-sizing:border-box;}
+div#gettingstart-wrapper div.box2-wrapper div.box2-inner img.box2-image{position: absolute;top:50px;left:-25%;}
+div#gettingstart-wrapper div.box2-wrapper div.box2-inner span.title{display:inline-block;margin-top:100px;font-size:40px;border-bottom:1px solid #428BCA;line-height: 60px;margin-bottom: 20px;}
+div#gettingstart-wrapper div.box2-wrapper div.box2-inner span.detail{display:block;margin-top:10px;line-height: 15px;margin-bottom: 20px;}
+div#gettingstart-wrapper div.box2-wrapper div.box2-inner span.shortcode{display:inline-block;margin-top:10px;line-height: 15px;margin-bottom: 20px;padding:10px 20px;background: #428BCA;color:#ffffff;font-weight: bold;font-size:18px;}
+div#gettingstart-wrapper div.box2-wrapper div.box2-inner span.path{display:block;margin-top:10px;line-height: 15px;margin-bottom: 20px;padding:10px 20px;background: #FAFAFA;border:1px solid #EAEAEA;font-size:16px;}
+div#gettingstart-wrapper div.box3-wrapper{display: inline-block;width: 100%;padding:40px 0px;}
+div#gettingstart-wrapper div.box3-wrapper div.box3-inner{display: inline-block;width: 78%;float:left;position:relative;padding:40px;padding-right:400px;height:550px;background:#ffffff;border:1px solid #BFBFBF;border-left:0px;box-sizing:border-box;}
+div#gettingstart-wrapper div.box3-wrapper div.box3-inner img.box3-image{position: absolute;top:50px;right:-25%;}
+div#gettingstart-wrapper div.box3-wrapper div.box3-inner span.title{display:inline-block;margin-top:100px;font-size:40px;border-bottom:1px solid #428BCA;line-height: 60px;margin-bottom: 20px;}
+div#gettingstart-wrapper div.box3-wrapper div.box3-inner span.detail{display:block;margin-top:10px;line-height: 15px;margin-bottom: 20px;}
+div#gettingstart-wrapper div.box3-wrapper div.box3-inner span.shortcode{display:inline-block;margin-top:10px;line-height: 15px;margin-bottom: 20px;padding:10px 20px;background: #428BCA;color:#ffffff;font-weight: bold;font-size:18px;}
+div#gettingstart-wrapper div.box3-wrapper div.box3-inner span.shortcode.disabled{color:#B30000;background: none;padding:0px;}
+div#gettingstart-wrapper div.box3-wrapper div.box3-inner span.shortcode.published{color:#109A77;background: none;padding:0px;}
+div#gettingstart-wrapper div.box3-wrapper div.box3-inner span.path{display:block;margin-top:10px;line-height: 15px;margin-bottom: 20px;padding:10px 20px;background: #FAFAFA;border:1px solid #EAEAEA;font-size:16px;}
+div#gettingstart-wrapper div.shortcode-wrapper{display:inline-block;width:100%;background:url(../images/gettingstart/blue-bg.png);padding:15px 0px 40px 0px;position: relative;padding-top:100px;margin-top: 40px;margin-bottom: 40px;}
+div#gettingstart-wrapper div.shortcode-wrapper img.cornerimage{position: absolute;right:0px;bottom: 0px;}
+div#gettingstart-wrapper div.shortcode-wrapper div.shortcode-subtitle{margin-top: 20px;color:#ffffff;font-size: 16px;margin-left:60px;}
+div#gettingstart-wrapper div.shortcode-wrapper div.shortcode-topbar{width: 100%;position: absolute;height:60px;top:30px;left:0px;background: rgba(0,0,0,.2)}
+div#gettingstart-wrapper div.shortcode-wrapper div.shortcode-title{display: inline-block;padding:20px 60px;color:#ffffff;background: rgba(0,0,0,0.3);position: absolute;top:30px;left:0px;font-size:35px;width:100%;box-sizing:border-box;font-weight: bold;}
+div#gettingstart-wrapper div.shortcode-wrapper form{display: inline-block;width: 100%;margin-top: 5px;}
+div#gettingstart-wrapper div.shortcode-wrapper div.shortcode-pages{display: inline-block;float:left;padding:20px 5px 10px 20px;margin-left:40px;}
+div#gettingstart-wrapper div.shortcode-wrapper div.shortcode-button{display: inline-block;float:left;padding:20px 5px 10px 20px;}
+div#gettingstart-wrapper div.shortcode-wrapper div.shortcode-all{display: inline-block;float:left;padding:20px 5px 10px 20px;margin-left: 40px;}
+div#gettingstart-wrapper div.shortcode-wrapper div.shortcode-all a{display: inline-block;padding:5px 10px; background: #151515;color:#ffffff;text-decoration: none;}
+div#gettingstart-wrapper div.shortcode-wrapper div.shortcode-button input{}
+div#gettingstart-wrapper div.shortcode-wrapper div.shortcode-pages select{width:250px;}
+div#gettingstart-wrapper div.box4-wrapper{width:100%;display: inline-block;background:url(../images/gettingstart/black-bg.png);padding:46px 100px;position: relative;box-sizing:border-box;}
+div#gettingstart-wrapper div.box4-wrapper span.title{display: block;font-weight: bold;font-size: 18px;color:#ffffff;}
+div#gettingstart-wrapper div.box4-wrapper a.documentation{display: inline-block;background:#428BCA;font-size: 14px;color:#ffffff;padding:5px 10px;margin-top: 10px;}
+div#gettingstart-wrapper div.box4-wrapper img.corner1{bottom: 0px;left:0px;position: absolute;}
+div#gettingstart-wrapper div.box4-wrapper img.corner2{top: 0px;right:0px;position: absolute;}
+a.language-wrapper{display: inline-block;width:70%;margin:40px 15%;background:url(../images/gettingstart/downloadtranslation.png);background-size:100% 100%;text-decoration: none;height:150px;position: relative;}
+a.language-wrapper div.languages{position: relative;}
+a.language-wrapper div.languages span.heading{position: absolute;top:25px;left:145px;font-size: 20px;font-weight: bold;color:#ffffff;}
+a.language-wrapper div.languages span.subheading{position: absolute;top:80px;left:150px;font-size: 18px;font-weight: bold;color:#000000;}
+
+@media (max-width: 480px){
+	label#forautoresponce{width:90%;}
+	a.language-wrapper{width:90%;margin:40px 5%;}
+	a.language-wrapper div.languages span.heading{font-size:14px;left:80px;}
+	a.language-wrapper div.languages span.subheading{font-size:12px;left:80px;}
+	div#gettingstart-wrapper div.box1-wrapper span.gettingstart-text{width:70%;font-size:25px;left:15%;}
+	div#gettingstart-wrapper div.box1-wrapper img.gettingstart-image{max-width:95%;}
+	div#gettingstart-wrapper div.box2-wrapper div.box2-inner{width:100%;float:left;padding:0px;text-align: center;height:auto;}
+	div#gettingstart-wrapper div.box2-wrapper div.box2-inner span.title{margin-top: 10px;}
+	div#gettingstart-wrapper div.box2-wrapper div.box2-inner img.box2-image{position: relative;display: block;left:2.5%;top:15px;width:95%;}
+	div#gettingstart-wrapper div.box3-wrapper div.box3-inner{width:100%;float:left;padding:0px;text-align: center;height:auto;}
+	div#gettingstart-wrapper div.box3-wrapper div.box3-inner span.title{margin-top: 10px;}
+	div#gettingstart-wrapper div.box3-wrapper div.box3-inner img.box3-image{position: relative;display: block;left:2.5%;top:0px;width:95%;}
+	div#gettingstart-wrapper div.shortcode-wrapper img.cornerimage{display: none;}
+	div#gettingstart-wrapper div.shortcode-wrapper div.shortcode-pages{display: block;float:none;}
+	div#gettingstart-wrapper div.shortcode-wrapper div.shortcode-button{display: block;float:none;}
+	div#gettingstart-wrapper div.shortcode-wrapper div.shortcode-button input{margin-left:40px;}
+	div#gettingstart-wrapper div.shortcode-wrapper div.shortcode-title{line-height: 28px;top:10px;}
+
+                          div.js-box-wrapper{display: inline-block;width: 100%;padding: 0px; padding-right: 10px; margin: 0px;}
+                          div.js-box-wrapper div.js-box{width:100%;float:left;margin-right: 2%;border: 1px solid #EEEEEE;background:#ffffff;}
+                          div.js-box-wrapper div.js-box div.img-wrapper{display: inline-block;float:left;width:30%;padding:10px;text-align: center;height: 80px;}
+                          div.js-box-wrapper div.js-box{margin-bottom: 10px;}
+                          span.js-ticket-admin-cp-showhide{display: inline}
+                          div.js-ticket-admin-hide-head{display: none;}
+                          div.js-ticket-admin-cp-tickets{padding-right: 10px;}
+                          div.js-ticket-admin-cp-data {border-bottom: 1px solid #000000; display: inline-block;width: 100%;}
+                          div.js-ticket-datapart-buttons-action{float: none;}
+                          div.js-ticket-datapart-buttons-detail{float: none;}
+                          div.js-ticket-toparea div.js-ticket-pic{text-align: center; border-right: none !important;}
+                          div.js-ticket-wrapper div.js-ticket-data1{border-left: none !important;}
+                          div.js-ticket-bottom-data-part span.js-ticket-created{margin-bottom: 15px;display: block;float:none;}
+                          div.js-ticket-bottom-data-part a.js-ticket-bottom-data-part-action-button {}
+                          div.js-ticket-bottom-data-part div.js-ticket-datapart-buttons-action{width: 100%;text-align: center;}
+                          div.js-ticket-bottom-data-part div.js-ticket-datapart-buttons-detail{width: 100%;text-align: center;}
+                          div.js-ticket-bottom-data-part{text-align: center;}
+                          div.js-ticket-wrapper div.js-ticket-data span.js-ticket-status{position: absolute;bottom:-17px;right:5px;padding: 5px 10px;border-radius: 20px;font-size: 10px;line-height: 1;color:#ffffff;font-weight: bold;}
+                          div.js-form-wrapper div.js-form-field label{width:40%;display:inline-block;}
+                          div.js-ticket-detail-wrapper a.button img{margin-top:0px;}
+                          div.js-ticket-detail-wrapper div.js-button-margin{text-align: center;}
+                          div.js-ticket-detail-append-signature-xs{margin-top:10px;}
+                          .tabInner div.js-form-button{margin-top:10px;padding:10px 0px;}
+                          div.js-myticket-link{width: 100%;margin-bottom: 5px;}
+                          div.js-ticket-detail-wrapper{padding:10px;border:none !important;display:inline-block;}
+                          div.js-ticket-detail-wrapper div.js-ticket-openclosed{font-size:32px;line-height: 50px;height: 60px;border-right: none !important;}
+                          div.js-ticket-detail-wrapper div.js-ticket-topbar{padding: 0px 0px 10px 0px;border-bottom: 1px solid #428BCA;margin: 15px 10px;}
+                          div.js-ticket-detail-wrapper div.js-ticket-topbar div.js-openclosed{border-right: none !important;}
+                          div.js-ticket-detail-wrapper div.js-ticket-topbar div.js-last-left{border-left: none !important;}
+                          div.js-ticket-detail-wrapper div.js-ticket-middlebar{margin: 20px 10px;}
+                          div.js-ticket-detail-wrapper div.js-ticket-middlebar{margin: 15px 0px;}
+                          div.js-ticket-detail-wrapper div.js-ticket-middlebar div.js-admin-xs-nullpadding{padding: 0px;}
+                          div.js-ticket-detail-wrapper div.js-margin-bottom{margin-bottom: 10px;}
+                          div.js-ticket-detail-wrapper div.js-button-margin{margin-top: 15px;}
+                          div.js-ticket-detail-wrapper div.js-ticket-moredetail{margin-bottom: 10px;}
+                          div.js-ticket-detail-wrapper div.js-ticket-moredetail div.js-ticket-data-value{border:1px solid #DDDDDD;}
+                          div.js-ticket-detail-wrapper div.js-border-box{border: 1px solid #DDDDDD;}
+                          div.js-ticket-detail-wrapper div.js-ticket-requester{margin:0px 15px;font-size: 16px;color:#428BCA;padding-bottom: 5px;margin-bottom: 10px;border-bottom: 1px solid #428BCA;}
+                          div.js-ticket-detail-wrapper div.js-ticket-bottombar{margin:10px;}
+                          div.js-ticket-detail-wrapper div.js-ticket-bottombar img{width:20px;}
+                          div.js-ticket-detail-wrapper a.button img{margin: 0px;}
+                          div.js-ticket-thread-pic img{width: 60px;height: 60px;}
+                          div.js-ticket-detail-wrapper div.js-ticket-bottombar img{width:20px;margin: 0px;}
+                          div.js-ticket-detail-wrapper div.js-ticket-bottombar img.js-showdetail{float:left;margin-right:5px;-webkit-transform: rotate(180deg);-moz-transform: rotate(180deg);-o-transform: rotate(180deg);-ms-transform: rotate(180deg);transition:all .3s;}
+                          div.js-ticket-detail-wrapper div.js-ticket-bottombar img.js-hidedetail{float:left;margin-right:5px;-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);-ms-transform: rotate(0deg);transition:all .3s;}
+                          div.js-ticket-wrapper-textcolor{color: #FFFFFF;}
+                          div.js-ticket-detail-append-signature-xs{padding: 10px 0px;}
+                          div.js-ticket-detail-append-signature-xs input#append_premade1{margin-top: 10px; margin-left: 3px;}
+                          div#userpopup{position: fixed;top:25%;left: 5%; width:90%;max-height: 50%;padding:0px;padding-top:5px;border-radius: 5px;}
+                          div.js-ticket-wrapper div.js-ticket-bottom-data-part a.button{float:none;margin-left: 10px;padding:0px 20px;line-height: 30px;height:32px;}
+                          div.js-filter-form-action-hl-xs{border-top: 1px solid #BDBDBD;}
+                          div.js-filter-form-head-xs{display: none;}
+                          span.js-filter-form-data-xs{display: inline;}
+                          div.js-textaligncenter{text-align: left;}
+                          div.js-filter-form-data div{min-height: 0px; border-right: none;}
+                          div.js-filter-form-data{margin-bottom: 10px;padding-left: 15px;padding-right: 15px;}
+                          div.js-filter-form-data div{border-right: none !important;}
+                          div.js-form-wrapper{display: inline-block;width:100%;padding: 0px;}
+                          div.js-form-wrapper div.js-form-title{width:100%;padding: 0px 15px;text-align: left;margin: 5px 0px;}
+                          div.js-form-wrapper div.js-form-field{width:100%;padding: 0px 15px;}
+                          div.js-form-wrapper div.js-form-title label{font-weight: normal;}
+                          div.js-form-wrapper div.js-form-field label{font-weight: normal;}
+                          div.js-form-wrapper div.js-form-field input[class='inputbox']{width: 100%;}
+                          div.js-form-wrapper div.js-form-field select[class='inputbox']{width: 100%;}
+                          div.js-ticket-configuration-row{margin: 10px 0px; border-top: 1px solid #AAAAAA; display: inline-block;}
+                          div.js-ticket-configuration-title{text-align: left;padding-top: 10px;}
+                          div.js-ticket-configuration-value span.js-ticket-config-xs-show-hide{display: block;}
+                          div.js-ticket-config-xs-hide{display: none;}
+                          .tabs ul li {width: 100%;}
+                          form.js-filter-form{display: inline-block;width:100%;margin: 5px 0px; padding-right: 10px;padding-right: 10px;}
+                          div.js-filter-form-fields{width: 100%;margin-top: 5px;}
+                          div.js-filter-form-fields input{width: 100%}
+                          div.js-filter-form-fields select{width: 100%}
+                          div.js-filter-form-fields-buttons {text-align: center;width: 100%;margin-top: 10px;}
+                          div.js-filter-form-fields-buttons input[class='button']{width: 70px;}
+                          a.js-add-link.button{text-align: center;}
+                          form.js-filter-form input{width: 100% !important;}
+                          div.js-pro-feature-wrapper div.js-pro-feature{width: 100%;}
+                          div.js-ticket-detail-wrapper{width: 100%;}
+                          div.search-center div.js-search-xs-hide{display: none;}
+                          div.search-center input#name{margin-bottom: 5px !important; padding-right: 15px;}
+                          div.search-center input#emailaddress{margin-bottom: 5px !important;}
+                          canvas#canvas{width:95% !important;}
+}
+
+
+div#jsst-main-wrapper{display: inline-block;width: 100%;padding: 20px;background: #F9F9F9;}
+div#jsst-upper-wrapper span.jsst-title{color: #ffffff;font-size: 18px;font-weight: bold;}
+div#jsst-upper-wrapper{padding: 45px;background: #000000;position: relative;}
+div#jsst-upper-wrapper span.jsst-logo{background: #ffffff;position: absolute;right: 80px;top: 31px; padding: 10px;border-top-left-radius: 15px;border-top-right-radius: 15px;}
+div#jsst-upper-wrapper img{width: 250px; height: auto;}
+div#jsst-middle-wrapper{margin-top: 20px;margin-bottom: 20px;display:inline-block;width: 100%;}
+div#jsst-middle-wrapper span.jsst-number{padding: 20px;display: inline-block;color: #ffffff;background: url(../images/arrow_icon.png) no-repeat right 3px; width: 30%;font-weight: bold;font-size: 25px;line-height: 15px;padding-left: 4%;}
+div#jsst-middle-wrapper span.jsst-text{padding: 20px;display: inline-block;color: white;text-align: center; width: 70%;}
+div#jsst-middle-wrapper div.js-col-md-4:first-child{margin-left: 1%;}
+div#jsst-middle-wrapper div.js-col-md-4{width:23%;background: url(../images/grey_bar.png) top left;border-radius: 4px;margin: 0px 10px;}
+div#jsst-middle-wrapper div.js-col-md-4.active{background: url(../images/green_bar.png) top left;}
+div#jsst-lower-wrapper{width: 100%;display: inline-block;padding-left: 15px;padding-right: 15px;}
+div#jsst-lower-wrapper.last,div#jsst_next_form{background: #E7E7E7;padding:20px 40px 40px 40px;}
+div#jsst-lower-wrapper.last span.fill_form_title,div#jsst_next_form div.js_wrapper span#jsjob_installer_helptext{display: block;border-bottom: 1px solid #000000;color:#000000;font-size: 20px;font-weight: bold;padding-bottom: 5px;margin-bottom: 10px;}
+div#jsst-lower-wrapper.last div.form input#transactionkey,div#jsst_next_form div.js_wrapper select#productversioninstall{width: 90%;float:left;display:block;padding: 7px 10px;height: 35px;}
+div.last-message{display: inline-block;float: right;padding: 10px 25px;border: 1px solid #e7e7e7;background: #ffffff;margin-top: 20px;}
+div#jsst-lower-wrapper.last div.form a.nextbutton,input#jsjob_instbutton_after{width: 9%;text-align: center;float:left;display:block;background: url(../images/blue_bar.png);border-radius: 4px;color:#ffffff;padding:8px 0px;text-decoration: none;border: 0px;outline: 0px;cursor: pointer;}
+input#jsjob_instbutton_after{width:100%;}
+div#jsjob_installer_formsubmitbutton{width:9%;float: left;}
+form#adminForm,div.js_wrapper{float: left;width: 100%;}
+div#jsst-lower-wrapper span.jsst-main-title{padding: 15px; background-color: black;color: white;font-size: 16px; font-weight: bold;width: 100%;display: inline-block;margin-bottom: 20px;}
+div#jsst-lower-wrapper div#jsst-table-head{background: #E7E7E7;border: 1px solid #CECECE;border-radius: 4px;padding: 4px 0px;}
+div#jsst-lower-wrapper div#jsst-table-head div{text-align: center;border-right:1px solid #CECECE;color: #000000;font-size: 15px;padding: 10px;}
+div#jsst-lower-wrapper div#jsst-table-head div:first-child{text-align: left;}
+div#jsst-lower-wrapper div#jsst-table-head div:last-child{border-right: 0px;}
+div#jsst-lower-wrapper div#jsst-table-data.js-row.jsst-main-error{background: #FFD2D3;margin-top: -10px;margin-bottom: 10px;border: 1px solid #EB9798;border-radius: 4px;padding: 4px 0px;}
+div#jsst-lower-wrapper div#jsst-table-data.js-row.jsst-main-error img{float: left;}
+div#jsst-lower-wrapper div#jsst-table-data.js-row.jsst-main-error div.js-row{display: inline-block;}
+div#jsst-lower-wrapper div#jsst-table-data.js-row.jsst-main-error span.jsst-main-error{display: block;font-size: 18px;color: #972D2D;text-align: left;}
+div#jsst-lower-wrapper div#jsst-table-data.js-row.jsst-main-error span.jsst-error-line{display: block;font-size: 12px;color: #4E4647;text-align: left;}
+div#jsst-lower-wrapper div#jsst-table-data{background: #FFFFFF;margin-top: 10px;border: 1px solid #CECECE;border-radius: 4px;padding: 4px 0px;}
+div#jsst-lower-wrapper div#jsst-table-data.error{border: 1px solid #E26568;}
+div#jsst-lower-wrapper div#jsst-table-data div{text-align: center;border-right:1px solid #CECECE;color: #000000;font-size: 15px;padding: 10px;}
+div#jsst-lower-wrapper div#jsst-table-data div.image{padding: 4px 10px;}
+div#jsst-lower-wrapper div#jsst-table-data div:first-child{text-align: left;}
+div#jsst-lower-wrapper div#jsst-table-data div:last-child{border-right: 0px;}
+div#jsst-lower-wrapper div.js-row{width:90%;margin:0 auto;}
+div#jsst-lower-wrapper div.js-row a.nextbutton{padding: 10px 20px;background: url(../images/blue_bar.png);border-radius: 4px;margin-top:20px;margin-right: -20px;display: inline-block;float: right;color:#ffffff;text-decoration: none;}
+div#jsst_error_message{background:url(../images/cross.png) 10px 4px no-repeat #FFBABA;color: #BD0202;border: 1px solid #ED7F84;padding: 10px 20px;padding-left:60px;margin-top:10px;display: none;}
+div#jsst_next_form{display: none;margin-top: 20px;float:left;width:100%;}
+div#jsst-finish-message{border: 1px solid #CAF395;border-radius: 4px;width: 98%;margin: 10px auto;padding:10px 15px;color:#2E942E;font-weight: bold;font-size: 20px;}
+div#jsst-finish-message img{margin-right: 20px;}
+div#jsst-finish-message-1{font-size: 30px;text-align: center;font-weight: bold;float: left;width: 100%;margin: 50px 10px;}
+div#jsst-finish-last-message{text-align: center;}
+div#jsst-finish-button{width: 80%;border-top: 3px solid #3C393A;margin: 0 auto;padding-top: 20px;text-align: center;}
+div#jsst-finish-button a.nextbutton{display: inline-block;padding: 8px 20px;border-radius: 4px;background: url(../images/blue_bar.png);color:#ffffff;}
+div#jsjob_installer_waiting_div{position: fixed;top:0px;left:0px;height: 100%;width: 100%;background: url(../images/loading.gif) 50% 50% no-repeat rgba(0,0,0,0.6);}
+span#jsjob_installer_waiting_span{position: fixed;top:64%;left:42%;color:#FFFFFF;}
+
+span.js-admin-component{display: block;padding:0px 10px;background:url(../images/aboutus_page/heading-bg.png);height:64px;width:100%;float:left;line-height: 64px;color:#FFFFFF;margin-bottom: 10px;}
+span.js-admin-component-detail{display: block;padding:0px 10px;width:100%;float:left;margin-bottom: 10px;font-size: 12px;}
+div.js-admin-info-wrapper{width: 100%;float:left;margin-bottom: 5px;}
+div.js-admin-info-wrapper span.js-admin-info-title{display:inline-block;width: 20%;float:left;padding:5px 0px;text-align: center;margin-right: 1%;background: #FFFFFF; border:1px solid #D4D4D5;}
+div.js-admin-info-wrapper span.js-admin-info-vlaue{display:inline-block;width: 77%;float:left;padding:5px 0px; padding-left:10px;background: #FFFFFF; border:1px solid #D4D4D5;}
+div.js-admin-joomsky-wrapper span.js-admin-title img{height: 30px;margin-right:10px;}
+div.js-admin-joomsky-wrapper span.js-admin-title{font-size:25px;line-height: 30px;}
+div.js-admin-joomsky-wrapper div.js-col-md-8{font-size:12px;color:#222222;margin-top:30px;}
+div.js-admin-joomsky-wrapper{background:url(../images/aboutus_page/bg.png) repeat-x;display: inline-block;width:100%;}
+span.js-joomsky-link{display: block;text-align: center;margin-top:30px;}
+span.js-joomsky-link a{display: inline-block;padding:5px 20px;background:#0074A2;color:#FFFFFF;}
+span.js-joomsky-link a:hover{display: inline-block;padding:5px 20px;background:#0074A2;color:#FFFFFF;text-decoration: none;}
+
+div#jsst-shortcode-wrapper{display: block;width: 100%;float:left;margin-bottom: 0px;}
+div#jsst-shortcode-wrapper div.jsst-shortcode-1{display: block;width: 100%;float:left;margin-bottom: 2px;background: #D0D2D3;color:#444444;font-weight: bold;font-size:16px;padding:5px 10px;}
+div#jsst-shortcode-wrapper div.jsst-shortcode-2{display: block;width: 100%;float:left;margin-bottom: 2px;background: #F1F1F1;color:#444444;padding:5px 10px;}
+div#jsst-shortcode-wrapper div.jsst-shortcode-3{display: block;width: 100%;float:left;margin-bottom: 2px;background: #FFFFFF;color:#444444;padding:5px 10px;}
+
+/****** Reports **********/
+div.js-admin-report-box-wrapper{float:left;width:100%;margin-top:20px;margin-bottom: 10px;}
+div.js-admin-report-box-wrapper div.js-admin-box{background:#ffffff;border:1px solid #cccccc;padding:0px;margin-right: 10px;}
+div.js-admin-report-box-wrapper.js-admin-controlpanel div.js-admin-box{margin-right: 0px;}
+div.js-admin-report-box-wrapper div.js-admin-box.js-col-md-offset-2{margin-left:11%;}
+div.js-admin-report-box-wrapper.js-admin-controlpanel div.js-admin-box.js-col-md-offset-2{margin-left:0px;}
+div.js-admin-report-box-wrapper div.js-admin-box div.js-admin-box-image{padding:5px;}
+div.js-admin-report-box-wrapper div.js-admin-box div.js-admin-box-image img{max-width: 100%;max-height: 100%;}
+div.js-admin-report-box-wrapper div.js-admin-box div.js-admin-box-content{padding:5px;}
+div.js-admin-report-box-wrapper div.js-admin-box div.js-admin-box-content div.js-admin-box-content-number{text-align: right;font-size:24px;font-weight: bold;}
+div.js-admin-report-box-wrapper div.js-admin-box div.js-admin-box-content div.js-admin-box-content-label{text-align: right;font-size:12px;padding:0px;margin-top:5px;color:#989898;white-space: nowrap;overflow: hidden;text-overflow:ellipsis;}
+div.js-admin-report-box-wrapper div.js-admin-box.box1 div.js-admin-box-content div.js-admin-box-content-number{color:#1EADD8;}
+div.js-admin-report-box-wrapper div.js-admin-box.box2 div.js-admin-box-content div.js-admin-box-content-number{color:#179650;}
+div.js-admin-report-box-wrapper div.js-admin-box.box3 div.js-admin-box-content div.js-admin-box-content-number{color:#D98E11;}
+div.js-admin-report-box-wrapper div.js-admin-box.box4 div.js-admin-box-content div.js-admin-box-content-number{color:#DB624C;}
+div.js-admin-report-box-wrapper div.js-admin-box.box5 div.js-admin-box-content div.js-admin-box-content-number{color:#5F3BBB;}
+
+div.js-admin-report-box-wrapper div.js-admin-box.box1 div.js-admin-box-label{height:20px;background:#1EADD8;}
+div.js-admin-report-box-wrapper div.js-admin-box.box2 div.js-admin-box-label{height:20px;background:#179650;}
+div.js-admin-report-box-wrapper div.js-admin-box.box3 div.js-admin-box-label{height:20px;background:#D98E11;}
+div.js-admin-report-box-wrapper div.js-admin-box.box4 div.js-admin-box-label{height:20px;background:#DB624C;}
+div.js-admin-report-box-wrapper div.js-admin-box.box5 div.js-admin-box-label{height:20px;background:#5F3BBB;}
+
+a.js-admin-report-wrapper{float:left;display: block;width:95%;font-size:18px;}
+a.js-admin-report-wrapper:hover{text-decoration: none;}
+a.js-admin-report-wrapper div.js-admin-overall-report-type-wrapper{box-shadow: 0px 0px 10px #aaaaaa;border-bottom:8px solid #6AA108;color:#6AA108;margin:10px 0px;background:url(../images/report/overall.png)  98% center no-repeat #EAF1DD;}
+a.js-admin-report-wrapper div.js-admin-staff-report-type-wrapper{box-shadow: 0px 0px 10px #aaaaaa;border-bottom:8px solid #1EADD8;color:#1EADD8;margin:10px 0px;background:url(../images/report/staffbox.png)  98% center no-repeat #EEF9FD;}
+a.js-admin-report-wrapper div.js-admin-user-report-type-wrapper{box-shadow: 0px 0px 10px #aaaaaa;border-bottom:8px solid #D98E11;color:#D98E11;margin:10px 0px;background:url(../images/report/userbox.png)  98% center no-repeat #FFF5EB;}
+div.js-admin-staff-wrapper{display: inline-block;width:95%;background:#ffffff;margin:10px 2.5%;border:1px solid #cccccc;}
+div.js-admin-staff-wrapper.padding{padding:10px;}
+div.js-admin-staff-wrapper .nopadding{padding:0px;}
+div.js-admin-staff-wrapper div.js-report-staff-image-wrapper{margin:0px;padding:0px;border:1px solid #cccccc;background:#F1F1F1;}
+div.js-admin-staff-wrapper div.js-report-staff-image-wrapper img.js-report-staff-pic{max-width:100%;max-height:90px;margin:0 auto;display: block;}
+div.js-admin-staff-wrapper div.js-report-staff-name{display: block;padding:3px 0px;font-weight: bold;font-size: 15px;color:#666666;border-bottom:1px solid #cccccc;margin-bottom:5px;}
+div.js-admin-staff-wrapper div.js-report-staff-username{display: block;padding:3px 0px;font-size: 14px;color:#666666;}
+div.js-admin-staff-wrapper div.js-report-staff-email{display: block;padding:3px 0px;font-size: 14px;color:#666666;}
+div.js-admin-staff-wrapper div.js-admin-report-box{background:#F1F1F1;border:1px solid #cccccc;margin-left:10px;padding:0px;padding-top:10px;}
+div.js-admin-staff-wrapper div.js-admin-report-box span.js-report-box-number{color:#989898;display: block;font-size:22px;font-weight: bold;text-align: center;margin:5px 0px 10px 0px;}
+div.js-admin-staff-wrapper div.js-admin-report-box span.js-report-box-title{color:#989898;display: block;font-size:12px;text-align: center;padding:5px 4px 10px 4px;white-space: nowrap;text-overflow:ellipsis;overflow: hidden;}
+div.js-admin-staff-wrapper div.js-admin-report-box.box1{margin-left:10.4%;}
+div.js-admin-staff-wrapper div.js-admin-report-box.box1 div.js-report-box-color{height:5px;background:#1EADD8;}
+div.js-admin-staff-wrapper div.js-admin-report-box.box2 div.js-report-box-color{height:5px;background:#179650;}
+div.js-admin-staff-wrapper div.js-admin-report-box.box3 div.js-report-box-color{height:5px;background:#D98E11;}
+div.js-admin-staff-wrapper div.js-admin-report-box.box4 div.js-report-box-color{height:5px;background:#DB624C;}
+div.js-admin-staff-wrapper div.js-admin-report-box.box5 div.js-report-box-color{height:5px;background:#5F3BBB;}
+a.js-admin-staff-anchor-wrapper{display: inline-block;width: 100%;padding:10px;float:left;}
+table.js-admin-report-tickets{width:100%;}
+table.js-admin-report-tickets tr th{background:#cccccc;color:#333333;padding:8px;font-size:18px;}
+table.js-admin-report-tickets tr td.overflow{white-space: nowrap;overflow: hidden;text-overflow:ellipsis;text-align: left;}
+table.js-admin-report-tickets tr td{text-align: center;background:#FFFFFF;padding:8px;}
+a.js-admin-report-butonright{float:right;}
+div#js-admin-ticketviaemail-bar{display: none;float:left;height:25px;width:35%;background:url(../images/progress_bar.gif);background-size: 100% 100%;margin-left:20px;margin-top:5px;}
+div#js-admin-ticketviaemail-text{display:none;padding:10px 0px;}
+a#js-admin-ticketviaemail{display: block;float:left;border:1px solid #666555;padding:8px 15px 8px 40px;background:url(../images/button_ticketviaemail.png);background-size:100% 100%;color:#ffffff;font-weight: bold;border-radius: 4px;text-decoration: none;position: relative;}
+a#js-admin-ticketviaemail img{position: absolute;top:3px;left:5px;}
+div#js-admin-ticketviaemail-msg{padding:10px;display:inline-block;float:none;margin-top:5px;border-radius: 4px;margin-bottom:10px;}
+div#js-admin-ticketviaemail-msg.server-error{background:#FEEFB3;color:#B98324;border:1px solid #B98324;}
+div#js-admin-ticketviaemail-msg.imap-error{background:#FEEFB3;color:#B98324;border:1px solid #B98324;}
+div#js-admin-ticketviaemail-msg.email-error{background:#FEEFB3;color:#B98324;border:1px solid #B98324;}
+div#js-admin-ticketviaemail-msg.no-error{background:#DFF2BF;color:#387B00;border:1px solid #387B00;}
+div.js-admin-ticketviaemail-wrapper-checksetting{margin-top:10px;}
+span.js-relative{position: relative;}
+span.js-relative img.js-relative-image{position: absolute;top:60px;right:0px;}
+div#userpopupblack{background: rgba(0,0,0,0.7);position: fixed;width: 100%;height: 100%;top:0px;left:0px;z-index: 9989;}
+
+div#wp-jsticket_message-editor-container{border:1px solid #dddddd;}

@@ -1,0 +1,59 @@
+@import 'breakpoints';
+
+#wrapper  {
+  @include outer-container;
+}
+
+.main-content  {
+  //@include span-columns(12);
+}
+
+aside  {
+ // @include span-columns(2);
+  //@include omega();
+}
+
+.main-footer  {
+  clear: both;
+  margin-top: 40px;
+}
+
+#item-header-content .highlight  {
+  display: none;
+}
+
+
+#buddypress  {
+  @include outer-container;
+}
+
+.item-list-tabs select  {
+  @include media($small) {
+    width: 100%;
+  }
+}
+
+#ass-email-subscriptions-options-page  {
+  margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,13 @@
+#wrapper  {
+  background: $main-content-background;
+  -webkit-box-shadow: inset 0 0 17px 0 rgba(197, 168, 139, 0.82), 0 0 7px 0 rgba(146, 109, 66, 0.75);
+  box-shadow: inset 0 0 17px 0 rgba(197, 168, 139, 0.82), 0 0 7px 0 rgba(146, 109, 66, 0.75);
+  @include media($small) {
+    box-shadow: none;
+    -webkit-box-shadow: none;
+  }
+}
+
+.main-content h1 {
+  font-size: 1.8em;
+}

@@ -1,0 +1,6 @@
+var $j=jQuery.noConflict();function handleMenuToggle(){$j('.svg-menu').click(function(){$j('.main-menu').toggle();});}
+function handleMagicNumberToggle(){$j('.show-all-dates').click(function(){if($j(this).text()=="Show all Dates"){$j(this).text("Hide all Dates");}else{$j(this).text("Show all Dates");}
+$j('.all-numbers-container').fadeToggle('500');});}
+function ajaxSubmit(e){e.preventDefault();var newNumberForm=$j(this).serialize();$j.ajax({type:"POST",url:"/wp-admin/admin-ajax.php",data:newNumberForm,success:function(data){window.location=document.location.href;}});return false;}
+function handleHideUserProfileFields(){$j('.user-rich-editing-wrap').css('display','none');$j('.user-comment-shortcuts-wrap').css('display','none');$j('.user-admin-bar-front-wrap').css('display','none');}
+$j(document).ready(function(){handleMenuToggle();handleMagicNumberToggle();handleHideUserProfileFields();$j('#number-form').submit(ajaxSubmit);$j('.js-accordion-trigger').bind('click',function(e){$j(this).parent().find('.submenu').slideToggle('fast');$j(this).parent().toggleClass('is-expanded');e.preventDefault();});});

@@ -1,0 +1,22 @@
+
+  nav.main-menu  {
+    float:right;
+    text-align: right;
+    margin-top: 10px;
+    li  {
+      display: inline-block;
+      text-align: center;
+      padding: 0 10px;
+      font-weight: bold;
+      border-right: 1px solid #fff;
+      &:last-child  {
+        border: none;
+      }
+      a  {
+        color: #fff;
+        &:hover  {
+          color: $hover-link-color;
+        }
+      }
+    }
+  }

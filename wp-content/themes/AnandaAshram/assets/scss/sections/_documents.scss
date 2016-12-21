@@ -1,0 +1,15 @@
+table[id^="ssfa-table"].ssfa-minimalist {
+  width: auto !important;
+  .ssfa-minimalist-first-column {
+    width: 10% !important;
+  }
+  th:nth-child(2) {
+    width: 80% !important;
+    text-align: left;
+  }
+}
+
+.ssfa_fileup_container {
+  @extend .box-grey;
+}
+

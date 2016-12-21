@@ -1,0 +1,38 @@
+#main-header  {
+  padding-left: 20px;
+  @include outer-container;
+  h1 {
+    @include span-columns(4);
+    @include media($small) {
+      width: 50% !important;
+    }
+    @include media($tablet) {
+      width: 18%;
+      font-size: 1em;
+      margin-top: 8px;
+    }
+  }
+  nav  {
+    //@include span-columns(8);
+    @include omega();
+    margin-bottom: .5em;
+  }
+}
+
+a.bp-title-button  {
+  @include media($small) {
+    margin-left: 0 !important;
+    width: 100%;
+  }
+}
+
+.item-list-tabs #subnav ul  {
+  float: none;
+  @include media($small) {
+    float: left;
+  }
+}
+
+article h1  {
+  margin-bottom: 20px;
+}

@@ -1,0 +1,12 @@
+table.calendar-view td.cal-left {
+  width: auto !important;
+}
+
+#cp-calendar-wrap {
+  @extend .hide-tiny;
+}
+
+.bp-widget h4, .calendar-view {
+  border: none !important;
+  @extend .hide-tiny;
+}

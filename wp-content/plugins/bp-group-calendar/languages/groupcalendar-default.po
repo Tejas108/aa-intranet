@@ -1,0 +1,513 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: groupcalendar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-09-02 16:37-0600\n"
+"PO-Revision-Date: 2011-09-02 16:37-0600\n"
+"Last-Translator: Aaron Edwards\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /Users/aaron2/Documents/WPMU Test/wp-content/plugins/bp-group-calendar\n"
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/loader.php:71
+msgid "Please install the latest version of <a href=\"http://premium.wpmudev.org/project/update-notifications/\" title=\"Download Now &raquo;\">our free Update Notifications plugin</a> which helps you stay up-to-date with the most stable, secure versions of WPMU DEV themes and plugins. <a href=\"http://premium.wpmudev.org/wpmu-dev/update-notifications-plugin-information/\">More information &raquo;</a>"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:114
+msgid "Calendar"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:233
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:551
+msgid "There was a security problem"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:239
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1135
+msgid "You don't have permission to edit events"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:249
+msgid "An event title is required"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:259
+msgid "Please enter a valid event date."
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:275
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1150
+msgid "You don't have permission to edit that event"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:286
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:305
+msgid "Event saved"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:293
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:313
+msgid "There was a problem saving to the DB"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:325
+msgid "New group event"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:326
+msgid "Modified group event"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:336
+msgid "created"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:339
+msgid "modified"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:346
+#, php-format
+msgid "%s %s an event for the group %s:"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:347
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:801
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1313
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1376
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1465
+msgid "View Event"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:380
+#, php-format
+msgid "%s created a new event for your group %s"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:402
+#, php-format
+msgid ""
+"%s:\r\n"
+"---------------------\r\n"
+"\r\n"
+"%s\r\n"
+"%s\r\n"
+"\r\n"
+"Description:\r\n"
+"%s\r\n"
+"\r\n"
+"Location:\r\n"
+"%s\r\n"
+"\r\n"
+"---------------------\r\n"
+"View this Event: %s\r\n"
+"View this Group: %s\r\n"
+"\r\n"
+"%s\r\n"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:421
+#, php-format
+msgid "To unsubscribe from these emails please login and visit: %s"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:556
+msgid "You do not have permission to delete events"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:565
+msgid "You don't have permission to delete that event"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:574
+msgid "There was a problem deleting"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:582
+msgid "Event deleted successfully"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:641
+msgid "Group Calendar Settings"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:642
+msgid "Moderator Capabilities"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:646
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:658
+msgid "Create events / Edit all events"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:648
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:660
+msgid "Create events / Edit own events"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:650
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:662
+msgid "No capabilities"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:654
+msgid "Member Capabilities"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:666
+msgid "Enable Email Notification of New Events"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:667
+msgid "Individual users can disable notifications"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:668
+msgid "Yes"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:669
+msgid "No"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:678
+msgid "A new group event is created"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:702
+msgid "Are you sure you want to delete this event?"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:752
+msgid "There are no scheduled events"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:764
+msgid "There are no events scheduled for this month"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:771
+msgid "There are no events scheduled for this day"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:777
+msgid "There are no upcoming events"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:782
+msgid "You have no scheduled events"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:805
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:998
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1216
+msgid "Edit Event"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:805
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:998
+msgid "Edit"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:840
+msgid "Day View"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:847
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:896
+msgid "Events For"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:882
+msgid "Month View"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:883
+msgid "F Y"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:885
+msgid "Previous Month"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:885
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:925
+msgid "Previous"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:886
+msgid "Full Year"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:886
+msgid "Year"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:887
+msgid "Next Month"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:887
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:926
+msgid "Next"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:923
+msgid "Year View"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:925
+msgid "Previous Year"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:926
+msgid "Next Year"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:960
+msgid "Upcoming Events"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:976
+msgid "My Events"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1003
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1005
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1017
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1173
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1175
+msgid " \\a\\t "
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1007
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1177
+#, php-format
+msgid "Created by %1$s on %2$s. Last modified by %3$s on %4$s."
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1012
+msgid "Event Details"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1020
+msgid "Description:"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1027
+msgid "Location:"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1034
+msgid "View Google Map of Event Location"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1034
+msgid "Map"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1067
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1115
+msgid "Create Event"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1069
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1221
+msgid "Title"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1072
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1224
+msgid "Date"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1075
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1227
+msgid "Time"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1100
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1252
+msgid "Description"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1103
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1255
+msgid "Location"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1106
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1258
+msgid "Show Map Link?"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1108
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1260
+msgid "(Note: Location must be an address)"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1181
+msgid "Delete Event"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1181
+msgid "Delete"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1273
+msgid "Save Event"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1288
+msgid "Displays upcoming public department events."
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1289
+msgid "Department Events"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1321
+msgid "There are no upcoming department events."
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1338
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1403
+msgid "Upcoming Department Events"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1342
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1408
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1494
+msgid "Title:"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1343
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1409
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1495
+msgid "Number of Events:"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1351
+msgid "Displays upcoming department events for a single department."
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1352
+msgid "Single Department Events"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1384
+msgid "There are no upcoming events for this department."
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1414
+msgid "Department:"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1427
+msgid "Displays upcoming department events for a logged in user's departments."
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1428
+msgid "User's Department Events"
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1473
+msgid "There are no upcoming events for your departments."
+msgstr ""
+
+#: /Users/aaron2/Documents/WPMU
+#: Test/wp-content/plugins/bp-group-calendar/groupcalendar/bp-group-calendar.php:1490
+msgid "Your Upcoming Department Events"
+msgstr ""
+

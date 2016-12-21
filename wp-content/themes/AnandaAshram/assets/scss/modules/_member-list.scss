@@ -1,0 +1,44 @@
+#members-list {
+  .item-meta {
+    padding-left: 61px;
+    @include media($tiny) {
+      padding-left: 0;
+    }
+  }
+}
+
+.bp_group_calendar_user_groups, .widget_bp_core_sitewide_messages  {
+  padding: 10px;
+  @include rounded(6px);
+  border: 1px solid #6db5b8;
+  @include background(linear-gradient(lighten($light-blue,5%),$light-blue));
+}
+
+.widget_bp_core_sitewide_messages  {
+  margin: 20px 0 20px 0;
+  .bp-site-wide-message:before {
+    content: "No Messages";
+  }
+}
+
+#buddypress .activity-list .activity-content {
+  margin: -14px 0 0 70px !important;
+}
+
+.phone-tiny {
+  display: none;
+  @include media($tiny and $small) {
+    display: block !important;
+    margin: 20px 0;
+    font-size: 1.5em;
+    width: 100% !important;
+    text-align: center;
+  }
+}
+
+.phone-large {
+  display: block;
+  @include media($small) {
+    display: none !important;
+  }
+}

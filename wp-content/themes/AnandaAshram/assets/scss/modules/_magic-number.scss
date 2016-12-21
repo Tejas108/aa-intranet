@@ -1,0 +1,19 @@
+.magic-number-container {
+  @extend .border-box;
+  overflow: auto;
+  margin-bottom: 20px;
+  text-align: center;
+  .magic-number-content {
+    //width: 80%;
+    margin: 0 auto;
+    div {
+      display: inline-block;
+      //width: 50%;
+      text-align: center;
+      //float: left;
+      .num {
+        font-size: 2em;
+      }
+    }
+  }
+}

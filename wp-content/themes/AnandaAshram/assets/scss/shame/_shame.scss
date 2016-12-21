@@ -1,0 +1,45 @@
+li.feed {
+  display: none;
+}
+
+#bbpress-forums div.bbp-template-notice img.avatar  {
+  margin-bottom: -3px;
+}
+
+#buddypress div.dir-search input[type=text], #buddypress li.groups-members-search input[type=text] {
+padding: .4em .4em;
+font-weight: normal;
+}
+
+#groups-order-select label  {
+  color: #555;
+}
+
+// Hide Calendar support panel in admin
+#ai1ec-support {
+display: none !important;
+}
+
+.bp_group_calendar_user_groups h3  {
+  @include media($small) {
+    font-size: 1.2em;
+  }
+}
+
+#bbp_topic_submit  {
+  @include media($small) {
+    font-size: 2em;
+  }
+}
+
+.show-admin-bar  {
+  display: none !important;
+}
+
+#buddypress div#item-header div#item-actions {
+  width: 30%! important;
+}
+
+iframe body {
+  background: #fff !important;
+}

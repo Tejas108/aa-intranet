@@ -1,0 +1,29 @@
+.hide-tiny {
+  @include media($small) {
+    display: none;
+  }
+}
+
+.box-grey {
+  border: 1px solid #d8dce0;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  border-radius: 5px;
+  padding: 10px !important;
+}
+
+.ssfa-sortname {
+  text-align: left;
+}
+
+.border-box {
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  border: 1px solid #d3d3d3;
+  overflow: auto;
+  background: #f4f4f4;
+  padding: 10px;
+  margin-bottom: 20px;
+}

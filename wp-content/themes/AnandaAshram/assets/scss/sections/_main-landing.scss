@@ -1,0 +1,43 @@
+.home-news-item, #divContainer {
+  @extend .border-box;
+}
+
+// Event iFrame
+#divContainer {
+  overflow-y: scroll;
+  height: 388px;
+  width: 581px;
+  #frameContainer {
+    border-right: none;
+    overflow-x: hidden;
+    iframe {
+      width: 822px;
+      min-height: 500px;
+      margin-top: -229px;
+      margin-left: -254px;
+      height: 2000px;
+    }
+  }
+}
+
+
+.home-left  {
+  float: left;
+  margin-right: 10px;
+    @include media($tiny) {
+      display: none;
+    }
+}
+
+.home-right {
+  td {
+    font-size: .8em;
+  }
+  tr:last-child td {
+    border: none;
+  }
+  .directory {
+    height: 388px;
+    overflow-y: scroll;
+  }
+}

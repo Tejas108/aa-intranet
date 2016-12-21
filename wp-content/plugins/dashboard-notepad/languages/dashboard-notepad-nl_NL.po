@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+"X-Generator: Poedit 1.7.4\n"
+
+#: dashboard-notepad.php:42
+msgid "Save Notes"
+msgstr "Notities opslaan"
+
+#: dashboard-notepad.php:60 dashboard-notepad.php:73
+msgid "Notepad"
+msgstr "Notepad"
+
+#: dashboard-notepad.php:70
+msgid "Enter here whatever is on your mind."
+msgstr "Hier kunt u uw notities invoeren."
+
+#: dashboard-notepad.php:134
+msgid "Widget title:"
+msgstr "(Widget-) titel"
+
+#: dashboard-notepad.php:136
+msgid "Widget height:"
+msgstr "(Widget-) hoogte"
+
+#: dashboard-notepad.php:137
+msgid "lines"
+msgstr "regels"
+
+#: dashboard-notepad.php:140
+msgid "Users in these roles can <strong>edit</strong> the notes:"
+msgstr "Gebruikers met deze rollen kunnen notities <strong>aanpassen</strong>:"
+
+#: dashboard-notepad.php:148
+msgid "Users in these roles can <strong>read</strong> the notes:"
+msgstr "Gebruikers met deze rollen kunnen notities <strong>lezen</strong>:"
+
+#: dashboard-notepad.php:153
+msgid "The Public"
+msgstr "Iedereen"
+
+#: dashboard-notepad.php:158
+msgid "Automatically add paragraphs when displaying the notes on the front end."
+msgstr "Automatisch paragrafen toevoegen als de notities op de website worden getoond."
+
+#. Plugin Name of the plugin/theme
+msgid "Dashboard Notepad"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://sillybean.net/code/wordpress/dashboard-notepad/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "The very simplest of notepads for your Dashboard. Based on <a href=\"http://www.contutto.com/\">Alex G&uuml;nsche's</a> Headache With Pictures. You can use the <code>&lt;?php dashboard_notes(); ?&gt;</code> template tag or the <code>[dashboard_notes]</code> shortcode to display your notes publicly."
+msgstr "Een heel eenvoudig kladblok voor het dashboard. Gebaseerd op <a href=\"http://www.contutto.com/\">Alex G&uuml;nsche's</a> Headache With Pictures. U kunt de <code>&lt;?php dashboard_notes(); ?&gt;</code> template tag of de <code>[dashboard_notes]</code> shortcode gebruiken om notities op de website te tonen."
+
+#. Author of the plugin/theme
+msgid "Stephanie Leary"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://sillybean.net/"
+msgstr ""

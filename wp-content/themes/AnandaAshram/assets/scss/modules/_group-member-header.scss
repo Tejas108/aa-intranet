@@ -1,0 +1,28 @@
+
+.item-meta .activity:first-child, #item-header-content .activity {
+  border: 1px solid #6db5b8;
+  @include rounded(3px);
+  padding: 3px !important;
+  @include background(linear-gradient(lighten(#B5F6F9,5%),#B5F6F9));
+}
+
+
+
+#gsubopt-1  {
+  width: 35em;
+  @include background(linear-gradient(lighten($light-gray, 15%), $light-gray));
+  -webkit-box-shadow: 0 0 6px 0 rgba(0,0,0,.3);
+  box-shadow: 0 0 6px 0 rgba(0,0,0,.3);
+  &:hover {
+    color: #888;
+  }
+  a.group-sub, a.group-sub:hover  {
+    color: $base-link-color;
+  }
+}
+
+#item-actions, #item-header-avatar {
+  @include media ($tablet) {
+    display: none;
+  }
+}

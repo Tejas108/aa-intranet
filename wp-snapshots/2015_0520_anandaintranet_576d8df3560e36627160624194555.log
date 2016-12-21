@@ -1,0 +1,75 @@
+********************************************************************************
+PACKAGE-LOG: 2016-06-24 19:46:15
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.1.8
+WORDPRESS:	4.2.9
+PHP INFO:	5.5.33 | SAPI: cgi-fcgi
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 5000M (90M default) 
+MEMORY STACK: 58MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported 
+TABLES: total:84 | filtered:0 | create:84 
+FILTERED: [] 
+SQL CREATED: 2015_0520_anandaintranet_576d8df3560e36627160624194555_database.sql 
+SQL FILE SIZE: 1.56MB (1639959) 
+SQL FILE TIME: 2016-06-24 19:46:17 
+SQL RUNTIME: 1.35 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /home/tejas108/internal.anandaashram.org 
+ARCHIVE FILE: 2015_0520_anandaintranet_576d8df3560e36627160624194555_archive.zip 
+FILTERS: *OFF* 
+DIRS:  /home/tejas108/internal.anandaashram.org/wp-content/cache/home/tejas108/internal.anandaashram.org/documents/private/Human Resources/Volunteer/Orientation Ananda Ashram’s Volunteer Service Program_10-31-2015.doc/home/tejas108/internal.anandaashram.org/wp-content/cache/minify/000000/jY5LDsIwDAUv1CRkg9j2KE5i2iDng50senuqFFTEipWf5ZknW-N6CFtlFDGuKl8Yjd8zhBSzcsB6n5P9wRqmStBwLIQL-G1YJ_XWGH2sqFbkYkAEm5g7l9wwhyEsHEOU9Af5dZ8uZs6QA8yyMqQPPvqoOKC9zhcicMfDMXvqAQ_i8ezIm-rxTMrqm7ZX7bu0kl4.css/home/tejas108/internal.anandaashram.org/wp-content/cache/minify/000000/jY5LDsIwDAUv1CRkg9j2KE5i2iDng50senuqFFTEipWf5ZknW-N6CFtlFDGuKl8Yjd8zhBSzcsB6n5P9wRqmStBwLIQL-G1YJ_XWGH2sqFbkYkAEm5g7l9wwhyEsHEOU9Af5dZ8uZs6QA8yyMqQPPvqoOKC9zhcicMfDMXvqAQ_i8ezIm-rxTMrqm7ZX7bu0kl4.css.gzip/home/tejas108/internal.anandaashram.org/wp-content/cache/minify/000000/jY5LEsIwDEMv1MRkw7DtUZzEtGGcD3ay6O2Bdvgs2UmjJ40c-BHj1oRUwTfTKTfGTrthWjBsEF7Rh7I5lcmBUEiNzEpSAVWpK1yllk4l7oVFUkya_yB_8ukEc8EScdZVML_xfY-rR37OhcqM_jicSuAR6SBu90GymZG-yjh7se5sw9Be8wM.css/home/tejas108/internal.anandaashram.org/wp-content/cache/minify/000000/jY5LEsIwDEMv1MRkw7DtUZzEtGGcD3ay6O2Bdvgs2UmjJ40c-BHj1oRUwTfTKTfGTrthWjBsEF7Rh7I5lcmBUEiNzEpSAVWpK1yllk4l7oVFUkya_yB_8ukEc8EScdZVML_xfY-rR37OhcqM_jicSuAR6SBu90GymZG-yjh7se5sw9Be8wM.css.gzip[/home/tejas108/internal.anandaashram.org/wp-content/cache/minify/000000/jY9LDsIwDEQv1NRkAWLboziJaY3yw04WvT20FZ8luxnN82hswfUQ1iqkCq6aRqlGbLSbSDP6FfwWfagxcR4sCHmuZBaSAqhKTeEmJTfKYT-YhQNr-oP8yYcTTBlzwEkXwfTG975YHMZXnS8xojsGc_axBzqI-6OTrKbzVxk7Xkd7GX3XVtJwhoC6sC_5-OIMFLgV2cwT.css/home/tejas108/internal.anandaashram.org/wp-content/cache/minify/000000/jY9LDsIwDEQv1NRkAWLboziJaY3yw04WvT20FZ8luxnN82hswfUQ1iqkCq6aRqlGbLSbSDP6FfwWfagxcR4sCHmuZBaSAqhKTeEmJTfKYT-YhQNr-oP8yYcTTBlzwEkXwfTG975YHMZXnS8xojsGc_axBzqI-6OTrKbzVxk7Xkd7GX3XVtJwhoC6sC_5-OIMFLgV2cwT.css.gzip/home/tejas108/internal.anandaashram.org/wp-content/cache/minify/000000/jY5BDsIwDAQ_RBpyQVz7FCcxrVHihNhB6u-pWlARJ25e7czKzvoe41IbilhfDQSlJ-liw5ozslJhGTLxyf2QirkmUNxCwgnCLh3UW2sYqKKZsRULIqhib62wIsdNmBpFkvwH-dWfznZk4AijzA3yB9_2UvGQ1rlQUgK_P0wcUo-4E_dHx7aYTsdl3HAd3GUIXbTkFw.css/home/tejas108/internal.anandaashram.org/wp-content/cache/minify/000000/jY5BDsIwDAQ_RBpyQVz7FCcxrVHihNhB6u-pWlARJ25e7czKzvoe41IbilhfDQSlJ-liw5ozslJhGTLxyf2QirkmUNxCwgnCLh3UW2sYqKKZsRULIqhib62wIsdNmBpFkvwH-dWfznZk4AijzA3yB9_2UvGQ1rlQUgK_P0wcUo-4E_dHx7aYTsdl3HAd3GUIXbTkFw.css.gzip/home/tejas108/internal.anandaashram.org/documents/public/Media/Logos/ashram.om logo.2013.flat.1200.tif/home/tejas108/internal.anandaashram.org/documents/public/Media/PHOTOS/20150617_081014.jpg/home/tejas108/internal.anandaashram.org/documents/public/Media/PHOTOS/20150617_081358 (1).jpg/home/tejas108/internal.anandaashram.org/documents/public/Media/PHOTOS/20150617_081508.jpg/home/tejas108/internal.anandaashram.org/documents/public/Media/PHOTOS/20150617_082447.jpg/home/tejas108/internal.anandaashram.org/documents/public/Media/PHOTOS/20150617_082450.jpg/home/tejas108/internal.anandaashram.org/documents/public/Media/PHOTOS/20150617_124101.jpg; 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	138.64MB 
+STATS:	Dirs 912 | Files 5,620 
+SQL ADDED: 2015_0520_anandaintranet_576d8df3560e36627160624194555_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 6532
+    [filename] => /home/tejas108/internal.anandaashram.org/wp-snapshots/tmp/2015_0520_anandaintranet_576d8df3560e36627160624194555_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 76.97MB 
+ARCHIVE RUNTIME: 87.63 sec. 
+MEMORY STACK: 60.75MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [/home/tejas108/internal.anandaashram.org/wp-snapshots/tmp/2015_0520_anandaintranet_576d8df3560e36627160624194555_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 1.56MB 
+Installer File: 341.61KB 
+Archive File: 76.97MB  
+
+********************************************************************************
+RECORD ID:[4]
+TOTAL PROCESS RUNTIME: 89.99 sec.
+PEAK PHP MEMORY USED: 62.25MB
+DONE PROCESSING => 2015_0520_anandaintranet 2016-06-24 19:47:45
+ 

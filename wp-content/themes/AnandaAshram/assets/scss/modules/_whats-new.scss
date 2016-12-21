@@ -1,0 +1,10 @@
+#whats-new-form {
+  clear: both;
+}
+
+#buddypress form#whats-new-form p.activity-greeting {
+  @include media($tiny) {
+    line-height: 1.2em;
+  }
+}
+
